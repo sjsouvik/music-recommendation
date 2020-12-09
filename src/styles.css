@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 1rem;
+}
+
+button {
+  padding: 1rem 2rem;
+  margin: 2rem 0.5rem;
+  border-radius: 1rem;
+}
+
+.output {
+  padding: 0.5rem;
+  margin: 1rem;
+  border: 1px solid grey;
+  border-radius: 0.5rem;
+  height: 15vh;
+  max-width: 100%;
+}
